@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 7ca3859052b401b4ead76e8f45fa8991
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 9121883526687813248
+    second: Armature_Rat|Rat_Attack
+  - first:
+      74: 4081212324902891504
+    second: Armature_Rat|Rat_Eat
+  - first:
+      74: 586792560991827790
+    second: Armature_Rat|Rat_Glance_0
+  - first:
+      74: 7053165131208976620
+    second: Armature_Rat|Rat_Glance_1
+  - first:
+      74: 8461773926492687640
+    second: Armature_Rat|Rat_Idle
+  - first:
+      74: 2190304593549103872
+    second: Armature_Rat|Rat_Run
+  - first:
+      74: -1287357091465065172
+    second: Armature_Rat|Rat_Startle
+  - first:
+      74: -485775279501234366
+    second: Armature_Rat|Rat_Walk
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Giant Rat
+    second: {fileID: 2100000, guid: 8b71d7c9a4404f4418c3e3b2e2621b12, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature_Rat|Rat_Attack
+      takeName: Armature_Rat|Rat_Attack
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 51
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature_Rat|Rat_Eat
+      takeName: Armature_Rat|Rat_Eat
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 103
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature_Rat|Rat_Glance_0
+      takeName: Armature_Rat|Rat_Glance_0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature_Rat|Rat_Glance_1
+      takeName: Armature_Rat|Rat_Glance_1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature_Rat|Rat_Idle
+      takeName: Armature_Rat|Rat_Idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 135
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature_Rat|Rat_Run
+      takeName: Armature_Rat|Rat_Run
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature_Rat|Rat_Startle
+      takeName: Armature_Rat|Rat_Startle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature_Rat|Rat_Walk
+      takeName: Armature_Rat|Rat_Walk
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Giant Rat(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature_Rat
+      parentName: Giant Rat(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Control_Point
+      parentName: Armature_Rat
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 0.9999998, z: 0.9999998}
+    - name: Pelvis
+      parentName: Control_Point
+      position: {x: 0, y: 0.0021048072, z: 0.0005381134}
+      rotation: {x: -0.18192494, y: -0.00000043097688, z: 0.00000009376063, w: 0.9833125}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Spine_0
+      parentName: Pelvis
+      position: {x: 1.0714716e-15, y: 0.004800938, z: -2.2351741e-10}
+      rotation: {x: -0.008238412, y: 0.97207546, z: 0.2345052, w: 0.0029571229}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
+    - name: Spine_1
+      parentName: Spine_0
+      position: {x: -4.6566128e-12, y: 0.0054948614, z: -4.9143634e-10}
+      rotation: {x: -0.29398742, y: -0.00072726794, z: 0.022818256, w: 0.95553666}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000001}
+    - name: Neck
+      parentName: Spine_1
+      position: {x: -4.649041e-12, y: 0.0034479839, z: 1.2268408e-13}
+      rotation: {x: 0.34494716, y: -0.001693252, z: -0.014154151, w: 0.9385138}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+    - name: Skull
+      parentName: Neck
+      position: {x: -8.3266725e-19, y: 0.0019121837, z: -1.2041212e-11}
+      rotation: {x: -0.000000119209275, y: 6.984919e-10, z: -0.0000000030850056, w: 1}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000004}
+    - name: Ear.R
+      parentName: Skull
+      position: {x: -0.0020269426, y: 0.0021125616, z: 0.0010131535}
+      rotation: {x: 0.9054027, y: -0.09445105, z: 0.28401423, w: 0.30109954}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: Ear.R_end
+      parentName: Ear.R
+      position: {x: -0, y: 0.0029645418, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ear.L
+      parentName: Skull
+      position: {x: 0.0020412588, y: 0.0021125616, z: 0.0010131535}
+      rotation: {x: 0.905403, y: 0.09445143, z: -0.28401315, w: 0.30109957}
+      scale: {x: 1.0000004, y: 1, z: 1.0000004}
+    - name: Ear.L_end
+      parentName: Ear.L
+      position: {x: -0, y: 0.0029645418, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jaw
+      parentName: Skull
+      position: {x: 6.9388935e-19, y: 0.00265921, z: -0.00088297576}
+      rotation: {x: -0.08459821, y: 0.00000090708255, z: -0.0000000738337, w: 0.9964152}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.0000001}
+    - name: Jaw_end
+      parentName: Jaw
+      position: {x: -0, y: 0.0039070034, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_1_0.R
+      parentName: Spine_1
+      position: {x: -0.002103843, y: 0.00072863646, z: -0.0008572549}
+      rotation: {x: -0.47769552, y: 0.5597452, z: 0.3601274, w: 0.57341135}
+      scale: {x: 0.99999976, y: 0.9999998, z: 0.9999998}
+    - name: Leg_1_1.R
+      parentName: Leg_1_0.R
+      position: {x: 0.0000000013411044, y: 0.0029622295, z: 1.4901161e-10}
+      rotation: {x: -0.039166845, y: -0.6539853, z: 0.12898082, w: 0.7444012}
+      scale: {x: 0.99999905, y: 0.9999995, z: 1.0000005}
+    - name: Leg_1_2.R
+      parentName: Leg_1_1.R
+      position: {x: -3.72529e-10, y: 0.0027235704, z: 4.4703483e-10}
+      rotation: {x: 0.014332647, y: -0.1870887, z: -0.0028895666, w: 0.98223424}
+      scale: {x: 1.0000008, y: 0.99999994, z: 1}
+    - name: Leg_1_2.R_end
+      parentName: Leg_1_2.R
+      position: {x: -0, y: 0.0023579868, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_1_0.L
+      parentName: Spine_1
+      position: {x: 0.0020046707, y: 0.0006146367, z: -0.00088432705}
+      rotation: {x: 0.1339349, y: 0.29110375, z: -0.60532236, w: 0.72863233}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Leg_1_1.L
+      parentName: Leg_1_0.L
+      position: {x: -3.72529e-10, y: 0.002962231, z: -6.705522e-10}
+      rotation: {x: 0.1042304, y: -0.37437782, z: -0.085475355, w: 0.9174265}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000007}
+    - name: Leg_1_2.L
+      parentName: Leg_1_1.L
+      position: {x: -2.2351741e-10, y: 0.0027235704, z: -2.9802322e-10}
+      rotation: {x: 0.014604225, y: -0.12695064, z: -0.00067503337, w: 0.9918013}
+      scale: {x: 0.9999995, y: 1, z: 1.0000001}
+    - name: Leg_1_2.L_end
+      parentName: Leg_1_2.L
+      position: {x: -0, y: 0.0023579868, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_0_0.L
+      parentName: Pelvis
+      position: {x: -0.0027590867, y: 0.0036822064, z: 0.000834543}
+      rotation: {x: 0.99712, y: -0.019963155, z: 0.0048689814, w: -0.07300324}
+      scale: {x: 1, y: 1.0000001, z: 0.99999976}
+    - name: Leg_0_1.L
+      parentName: Leg_0_0.L
+      position: {x: -2.3929772e-10, y: 0.0033981374, z: 2.2161571e-10}
+      rotation: {x: -0.19022031, y: -0.00000060043743, z: 0.00000018486863, w: -0.9817414}
+      scale: {x: 1, y: 1.0000005, z: 1.0000008}
+    - name: Leg_0_2.L
+      parentName: Leg_0_1.L
+      position: {x: 1.9557773e-10, y: 0.001881706, z: 4.0978193e-10}
+      rotation: {x: 0.00037822765, y: -0.2956132, z: 0.9530747, w: 0.06527912}
+      scale: {x: 1.0000005, y: 0.9999998, z: 0.9999994}
+    - name: Leg_0_2.L_end
+      parentName: Leg_0_2.L
+      position: {x: -0, y: 0.0022733954, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_0_0.R
+      parentName: Pelvis
+      position: {x: 0.0028137614, y: 0.0036822064, z: 0.0008345377}
+      rotation: {x: 0.99712, y: 0.019963166, z: -0.0048713796, w: -0.073003486}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Leg_0_1.R
+      parentName: Leg_0_0.R
+      position: {x: 5.872579e-11, y: 0.0033981374, z: 1.4720768e-10}
+      rotation: {x: -0.19022022, y: -0.0000005761886, z: 0.00000014479019, w: -0.9817415}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Leg_0_2.R
+      parentName: Leg_0_1.R
+      position: {x: 2.5669578e-10, y: 0.0018817054, z: 0.0000000012665987}
+      rotation: {x: 0.0012120887, y: -0.29550368, z: 0.953074, w: -0.065772176}
+      scale: {x: 1.0000002, y: 0.9999995, z: 0.9999995}
+    - name: Leg_0_2.R_end
+      parentName: Leg_0_2.R
+      position: {x: -0, y: 0.0022733954, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tail_0
+      parentName: Pelvis
+      position: {x: -0.000000002121701, y: 0.002058322, z: -0.0022247704}
+      rotation: {x: -0.97299695, y: -0.000000027515796, z: 0.0000010439104, w: 0.23081821}
+      scale: {x: 1, y: 1.0000001, z: 0.9999992}
+    - name: Tail_1
+      parentName: Tail_0
+      position: {x: 8.3383866e-16, y: 0.0014611384, z: -1.4901161e-10}
+      rotation: {x: 0.17788276, y: 6.217248e-15, z: -0.00000021205247, w: 0.98405176}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: Tail_2
+      parentName: Tail_1
+      position: {x: -2.496481e-16, y: 0.0017560652, z: 0}
+      rotation: {x: 0.3496801, y: 0.0000004467334, z: -0.00000025011016, w: 0.9368692}
+      scale: {x: 1, y: 1.0000001, z: 0.9999997}
+    - name: Tail_3
+      parentName: Tail_2
+      position: {x: -6.322254e-18, y: 0.0017155363, z: 2.9802322e-10}
+      rotation: {x: -0.000000067372426, y: 0.93822724, z: 0.34601977, w: -0.00000040637045}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000001}
+    - name: Tail_4
+      parentName: Tail_3
+      position: {x: 1.410917e-16, y: 0.002703655, z: 0.000000001490116}
+      rotation: {x: -0.18620016, y: -0.00000014835547, z: -0.00000008878724, w: 0.9825118}
+      scale: {x: 1.0000005, y: 0.99999994, z: 1.0000006}
+    - name: Tail_5
+      parentName: Tail_4
+      position: {x: 2.575763e-16, y: 0.0031868138, z: 0}
+      rotation: {x: -0.3651574, y: 0.00000047350494, z: -0.00000030471236, w: 0.9309458}
+      scale: {x: 1.0000007, y: 1.0000001, z: 1.0000004}
+    - name: Tail_5_end
+      parentName: Tail_5
+      position: {x: -0, y: 0.0013532912, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_IK_0.R
+      parentName: Armature_Rat
+      position: {x: 0.0030720346, y: 0.006253109, z: 0.00071911735}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Foot_0.R
+      parentName: Leg_IK_0.R
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000665462, y: -0.13428573, z: 0.99094266, w: 0.000000090178766}
+      scale: {x: 0.99999976, y: 0.9999998, z: 1.0000006}
+    - name: Toe.R
+      parentName: Foot_0.R
+      position: {x: -1.8595965e-10, y: 0.0015936936, z: -4.6820218e-11}
+      rotation: {x: 0.09603428, y: -0.00000023731903, z: 0.00000010608613, w: 0.9953781}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000001}
+    - name: Toe.R_end
+      parentName: Toe.R
+      position: {x: -0, y: 0.0015708036, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_IK_0.L
+      parentName: Armature_Rat
+      position: {x: -0.0030173617, y: 0.006253109, z: 0.00071911735}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Foot_0.L
+      parentName: Leg_IK_0.L
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.0000005473324, y: -0.13428594, z: 0.99094266, w: 0.00000007417065}
+      scale: {x: 0.99999976, y: 0.9999998, z: 1.0000014}
+    - name: Toe.L
+      parentName: Foot_0.L
+      position: {x: -1.1944347e-10, y: 0.0015936939, z: -9.4081826e-11}
+      rotation: {x: 0.09603425, y: -0.0000002373193, z: 0.00000008318988, w: 0.9953781}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000002}
+    - name: Toe.L_end
+      parentName: Toe.L
+      position: {x: -0, y: 0.0015708036, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_IK_1.R
+      parentName: Armature_Rat
+      position: {x: 0.0048562866, y: -0.007100858, z: 0.000273015}
+      rotation: {x: -0, y: -0.0000001192093, z: -7.1054274e-15, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Foot_1.R
+      parentName: Leg_IK_1.R
+      position: {x: 3.620921e-10, y: 0.0000060129164, z: -0.000004290606}
+      rotation: {x: -0.00000031365525, y: -0.04076904, z: 0.9991686, w: 0.000000022518066}
+      scale: {x: 1, y: 0.9999999, z: 1.0000024}
+    - name: Foot_1.R_end
+      parentName: Foot_1.R
+      position: {x: -0, y: 0.0024105005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_IK_1.L
+      parentName: Armature_Rat
+      position: {x: -0.004922635, y: -0.0071028015, z: 0.0002716995}
+      rotation: {x: -0, y: -0.0000001192093, z: -7.1054274e-15, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Foot_1.L
+      parentName: Leg_IK_1.L
+      position: {x: -2.3395436e-10, y: 0.000007956623, z: -0.0000029752027}
+      rotation: {x: -0.00000031365508, y: -0.04076904, z: 0.9991686, w: 0.00000002251808}
+      scale: {x: 1, y: 0.9999999, z: 1.0000024}
+    - name: Foot_1.L_end
+      parentName: Foot_1.L
+      position: {x: -0, y: 0.0024105005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_Pole_0.L
+      parentName: Armature_Rat
+      position: {x: -0.0027590876, y: 0.007886833, z: 0.0022787862}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Leg_Pole_0.L_end
+      parentName: Leg_Pole_0.L
+      position: {x: -0, y: 0.0024212466, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_Pole_0.R
+      parentName: Armature_Rat
+      position: {x: 0.0028137607, y: 0.007886833, z: 0.0022787862}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Leg_Pole_0.R_end
+      parentName: Leg_Pole_0.R
+      position: {x: -0, y: 0.0024212466, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_Pole_1.R
+      parentName: Armature_Rat
+      position: {x: 0.004663757, y: -0.0049677417, z: 0.0012758246}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.95438427, y: 0.9999999, z: 0.9999999}
+    - name: Leg_Pole_1.R_end
+      parentName: Leg_Pole_1.R
+      position: {x: -0, y: 0.0019988185, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_Pole_1.L
+      parentName: Armature_Rat
+      position: {x: -0.0047301045, y: -0.0049633957, z: 0.0012919802}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.95438427, y: 0.9999999, z: 0.9999999}
+    - name: Leg_Pole_1.L_end
+      parentName: Leg_Pole_1.L
+      position: {x: -0, y: 0.0019665072, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Giant Rat
+      parentName: Giant Rat(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Plane
+      parentName: Giant Rat(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 322.55612, y: 322.55612, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
